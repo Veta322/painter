@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.442d45b8.css",
-    "main.js": "/painter/static/js/main.e10a1d3e.js",
+    "main.css": "/painter/static/css/main.b25549bc.css",
+    "main.js": "/painter/static/js/main.4eecfc06.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
     "static/media/main-pic.png": "/painter/static/media/main-pic.b617af9e053542d7641d.png",
@@ -71,12 +71,12 @@
     "static/media/CloseCircle.svg": "/painter/static/media/CloseCircle.fb218ab2ca3ff39c194c9a24101049fb.svg",
     "index.html": "/painter/index.html",
     "static/media/гамбургер.svg": "/painter/static/media/гамбургер.a9374abd04d0c73e85008bebef6c06f4.svg",
-    "main.442d45b8.css.map": "/painter/static/css/main.442d45b8.css.map",
-    "main.e10a1d3e.js.map": "/painter/static/js/main.e10a1d3e.js.map",
+    "main.b25549bc.css.map": "/painter/static/css/main.b25549bc.css.map",
+    "main.4eecfc06.js.map": "/painter/static/js/main.4eecfc06.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.442d45b8.css",
-    "static/js/main.e10a1d3e.js"
+    "static/css/main.b25549bc.css",
+    "static/js/main.4eecfc06.js"
   ]
 }
