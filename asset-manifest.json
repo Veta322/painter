@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.b25549bc.css",
-    "main.js": "/painter/static/js/main.4eecfc06.js",
+    "main.css": "/painter/static/css/main.e458ba82.css",
+    "main.js": "/painter/static/js/main.3934a197.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
+    "static/media/mk-pic.png": "/painter/static/media/mk-pic.c7d3dbce416e2c48c3cd.png",
+    "static/media/batterfly.png": "/painter/static/media/batterfly.14d63ab1f0c396e4df42.png",
+    "static/media/iris.png": "/painter/static/media/iris.60eece00e29135425aaa.png",
+    "static/media/labirint.png": "/painter/static/media/labirint.a171756a6dc885259b44.png",
     "static/media/main-pic.png": "/painter/static/media/main-pic.b617af9e053542d7641d.png",
     "static/media/lev.png": "/painter/static/media/lev.84fe637c844afce0e027.png",
     "static/media/tigor.png": "/painter/static/media/tigor.36b7cbd0bcbb8790b623.png",
+    "static/media/lilia.png": "/painter/static/media/lilia.c9c8073a1dbb8184b7f5.png",
+    "static/media/goldtigr.png": "/painter/static/media/goldtigr.07a79fe7088dff170d49.png",
     "static/media/mam.png": "/painter/static/media/mam.c04cd462a722ca2ac586.png",
     "static/media/goldorel.png": "/painter/static/media/goldorel.c13367b960ac38a59346.png",
     "static/media/orel.png": "/painter/static/media/orel.8dd208b4d64dbb91b9c8.png",
     "static/media/menu-pic.png": "/painter/static/media/menu-pic.659eefc0deaad7ca1d62.png",
     "static/media/pion.png": "/painter/static/media/pion.ce40e757b6c4e82b3eab.png",
+    "static/media/shake.png": "/painter/static/media/shake.e0f1614c54267a186163.png",
+    "static/media/zhuk.png": "/painter/static/media/zhuk.2eb3bd50c15fbf267a49.png",
     "static/media/contact-pic.png": "/painter/static/media/contact-pic.7357f52ed2983049fdeb.png",
     "static/media/RobotoFlex-Regular.eot": "/painter/static/media/RobotoFlex-Regular.51f80f780ead5d88c1b0.eot",
     "static/media/RobotoFlex-Regular.ttf": "/painter/static/media/RobotoFlex-Regular.6d1a22109c570eb05105.ttf",
@@ -70,13 +78,14 @@
     "static/media/поиск.svg": "/painter/static/media/поиск.d580d433659ef463b360.svg",
     "static/media/CloseCircle.svg": "/painter/static/media/CloseCircle.fb218ab2ca3ff39c194c9a24101049fb.svg",
     "index.html": "/painter/index.html",
+    "static/media/Arrow.svg": "/painter/static/media/Arrow.8bd302ab01ac766028279a1cb7ab7609.svg",
     "static/media/гамбургер.svg": "/painter/static/media/гамбургер.a9374abd04d0c73e85008bebef6c06f4.svg",
-    "main.b25549bc.css.map": "/painter/static/css/main.b25549bc.css.map",
-    "main.4eecfc06.js.map": "/painter/static/js/main.4eecfc06.js.map",
+    "main.e458ba82.css.map": "/painter/static/css/main.e458ba82.css.map",
+    "main.3934a197.js.map": "/painter/static/js/main.3934a197.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b25549bc.css",
-    "static/js/main.4eecfc06.js"
+    "static/css/main.e458ba82.css",
+    "static/js/main.3934a197.js"
   ]
 }
