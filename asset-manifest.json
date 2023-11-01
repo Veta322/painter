@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.6b4ccb7a.css",
+    "main.css": "/painter/static/css/main.9ceff4e3.css",
     "main.js": "/painter/static/js/main.bf95bb11.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
@@ -80,12 +80,12 @@
     "index.html": "/painter/index.html",
     "static/media/Arrow.svg": "/painter/static/media/Arrow.8bd302ab01ac766028279a1cb7ab7609.svg",
     "static/media/гамбургер.svg": "/painter/static/media/гамбургер.a9374abd04d0c73e85008bebef6c06f4.svg",
-    "main.6b4ccb7a.css.map": "/painter/static/css/main.6b4ccb7a.css.map",
+    "main.9ceff4e3.css.map": "/painter/static/css/main.9ceff4e3.css.map",
     "main.bf95bb11.js.map": "/painter/static/js/main.bf95bb11.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b4ccb7a.css",
+    "static/css/main.9ceff4e3.css",
     "static/js/main.bf95bb11.js"
   ]
 }
