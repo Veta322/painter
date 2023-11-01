@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.def7c81e.css",
-    "main.js": "/painter/static/js/main.402e8e98.js",
+    "main.css": "/painter/static/css/main.3fed9e9a.css",
+    "main.js": "/painter/static/js/main.3c97de41.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
     "static/media/mk-pic.png": "/painter/static/media/mk-pic.c7d3dbce416e2c48c3cd.png",
     "static/media/batterfly.png": "/painter/static/media/batterfly.14d63ab1f0c396e4df42.png",
     "static/media/iris.png": "/painter/static/media/iris.60eece00e29135425aaa.png",
+    "static/media/cooperation.png": "/painter/static/media/cooperation.74951b6fade31599a105.png",
     "static/media/labirint.png": "/painter/static/media/labirint.a171756a6dc885259b44.png",
     "static/media/main-pic.png": "/painter/static/media/main-pic.b617af9e053542d7641d.png",
     "static/media/lev.png": "/painter/static/media/lev.84fe637c844afce0e027.png",
@@ -81,12 +82,12 @@
     "index.html": "/painter/index.html",
     "static/media/Arrow.svg": "/painter/static/media/Arrow.8bd302ab01ac766028279a1cb7ab7609.svg",
     "static/media/гамбургер.svg": "/painter/static/media/гамбургер.a9374abd04d0c73e85008bebef6c06f4.svg",
-    "main.def7c81e.css.map": "/painter/static/css/main.def7c81e.css.map",
-    "main.402e8e98.js.map": "/painter/static/js/main.402e8e98.js.map",
+    "main.3fed9e9a.css.map": "/painter/static/css/main.3fed9e9a.css.map",
+    "main.3c97de41.js.map": "/painter/static/js/main.3c97de41.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.def7c81e.css",
-    "static/js/main.402e8e98.js"
+    "static/css/main.3fed9e9a.css",
+    "static/js/main.3c97de41.js"
   ]
 }
