@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.70175cc7.css",
-    "main.js": "/painter/static/js/main.cc8f62da.js",
+    "main.css": "/painter/static/css/main.5ba39e2e.css",
+    "main.js": "/painter/static/js/main.fdc7c269.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
+    "static/media/about.png": "/painter/static/media/about.cdeb676d9aa340595592.png",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
+    "static/media/lion.png": "/painter/static/media/lion.6a5047373fd77ccd9fa1.png",
+    "static/media/snakeart.png": "/painter/static/media/snakeart.2fd9bf0703cc60d2c805.png",
     "static/media/mk-pic.png": "/painter/static/media/mk-pic.c7d3dbce416e2c48c3cd.png",
     "static/media/batterfly.png": "/painter/static/media/batterfly.14d63ab1f0c396e4df42.png",
     "static/media/iris.png": "/painter/static/media/iris.60eece00e29135425aaa.png",
@@ -23,8 +26,6 @@
     "static/media/zhuk.png": "/painter/static/media/zhuk.2eb3bd50c15fbf267a49.png",
     "static/media/contact-pic.png": "/painter/static/media/contact-pic.7357f52ed2983049fdeb.png",
     "static/media/del-pic.png": "/painter/static/media/del-pic.75634804e60941e29120.png",
-    "static/media/RobotoFlex-Regular.eot": "/painter/static/media/RobotoFlex-Regular.51f80f780ead5d88c1b0.eot",
-    "static/media/RobotoFlex-Regular.ttf": "/painter/static/media/RobotoFlex-Regular.6d1a22109c570eb05105.ttf",
     "static/media/Laqonic4FUnicase-MediumItalic.eot": "/painter/static/media/Laqonic4FUnicase-MediumItalic.4897f15091df2f8564d4.eot",
     "static/media/Laqonic4FUnicase-SemiBoldItalic.eot": "/painter/static/media/Laqonic4FUnicase-SemiBoldItalic.62e404f471f44a2229f6.eot",
     "static/media/Laqonic4FUnicase-MediumItalic.ttf": "/painter/static/media/Laqonic4FUnicase-MediumItalic.f93c4b1aaa6ebc8544d9.ttf",
@@ -49,8 +50,6 @@
     "static/media/Laqonic4FUnicase.ttf": "/painter/static/media/Laqonic4FUnicase.37c755511250c272cfd2.ttf",
     "static/media/Laqonic4FUnicase-Bold.eot": "/painter/static/media/Laqonic4FUnicase-Bold.2354a728753c6ecd4982.eot",
     "static/media/Laqonic4FUnicase-Bold.ttf": "/painter/static/media/Laqonic4FUnicase-Bold.182d14962d25df8c6a0a.ttf",
-    "static/media/RobotoFlex-Regular.woff": "/painter/static/media/RobotoFlex-Regular.72afc7a820aaaff981f2.woff",
-    "static/media/RobotoFlex-Regular.woff2": "/painter/static/media/RobotoFlex-Regular.07ba855285c5c45f8d7f.woff2",
     "static/media/Laqonic4FUnicase-BlackItalic.woff": "/painter/static/media/Laqonic4FUnicase-BlackItalic.0f55192bef66f887b128.woff",
     "static/media/Laqonic4FUnicase-SemiBoldItalic.woff": "/painter/static/media/Laqonic4FUnicase-SemiBoldItalic.ed7a223e2838899d61e4.woff",
     "static/media/Laqonic4FUnicase-MediumItalic.woff": "/painter/static/media/Laqonic4FUnicase-MediumItalic.1b755d076fac267f6d71.woff",
@@ -78,16 +77,16 @@
     "static/media/Social icon.svg": "/painter/static/media/Social icon.216c473016b060c1f435b525180c3ca5.svg",
     "static/media/Social icon 2.svg": "/painter/static/media/Social icon 2.7b44790d9f94c5af79a9a2115cafe451.svg",
     "static/media/поиск.svg": "/painter/static/media/поиск.d580d433659ef463b360.svg",
-    "static/media/CloseCircle.svg": "/painter/static/media/CloseCircle.fb218ab2ca3ff39c194c9a24101049fb.svg",
     "index.html": "/painter/index.html",
+    "static/media/CloseCircle.svg": "/painter/static/media/CloseCircle.fb218ab2ca3ff39c194c9a24101049fb.svg",
     "static/media/Arrow.svg": "/painter/static/media/Arrow.8bd302ab01ac766028279a1cb7ab7609.svg",
     "static/media/гамбургер.svg": "/painter/static/media/гамбургер.a9374abd04d0c73e85008bebef6c06f4.svg",
-    "main.70175cc7.css.map": "/painter/static/css/main.70175cc7.css.map",
-    "main.cc8f62da.js.map": "/painter/static/js/main.cc8f62da.js.map",
+    "main.5ba39e2e.css.map": "/painter/static/css/main.5ba39e2e.css.map",
+    "main.fdc7c269.js.map": "/painter/static/js/main.fdc7c269.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70175cc7.css",
-    "static/js/main.cc8f62da.js"
+    "static/css/main.5ba39e2e.css",
+    "static/js/main.fdc7c269.js"
   ]
 }
