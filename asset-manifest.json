@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.50d74f83.css",
-    "main.js": "/painter/static/js/main.49be4c51.js",
+    "main.css": "/painter/static/css/main.550a703a.css",
+    "main.js": "/painter/static/js/main.2ed00fe8.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
     "static/media/about.png": "/painter/static/media/about.cdeb676d9aa340595592.png",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
@@ -74,12 +74,12 @@
     "index.html": "/painter/index.html",
     "static/media/CloseCircle.svg": "/painter/static/media/CloseCircle.fb218ab2ca3ff39c194c9a24101049fb.svg",
     "static/media/Arrow.svg": "/painter/static/media/Arrow.8bd302ab01ac766028279a1cb7ab7609.svg",
-    "main.50d74f83.css.map": "/painter/static/css/main.50d74f83.css.map",
-    "main.49be4c51.js.map": "/painter/static/js/main.49be4c51.js.map",
+    "main.550a703a.css.map": "/painter/static/css/main.550a703a.css.map",
+    "main.2ed00fe8.js.map": "/painter/static/js/main.2ed00fe8.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50d74f83.css",
-    "static/js/main.49be4c51.js"
+    "static/css/main.550a703a.css",
+    "static/js/main.2ed00fe8.js"
   ]
 }
