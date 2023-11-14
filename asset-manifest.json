@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.fa6b0e22.css",
-    "main.js": "/painter/static/js/main.82430215.js",
+    "main.css": "/painter/static/css/main.50d74f83.css",
+    "main.js": "/painter/static/js/main.49be4c51.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
     "static/media/about.png": "/painter/static/media/about.cdeb676d9aa340595592.png",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
@@ -17,6 +17,9 @@
     "static/media/design.png": "/painter/static/media/design.9227cb6c2ff78500e186.png",
     "static/media/contact-pic.png": "/painter/static/media/contact-pic.7357f52ed2983049fdeb.png",
     "static/media/del-pic.png": "/painter/static/media/del-pic.75634804e60941e29120.png",
+    "static/media/Frame 514263.png": "/painter/static/media/Frame 514263.4d1d5ef1057a0dad86eb.png",
+    "static/media/look4.png": "/painter/static/media/look4.21f6956041c7b5181dfc.png",
+    "static/media/Frame 514486.png": "/painter/static/media/Frame 514486.40609f2fc4454f954470.png",
     "static/media/Laqonic4FUnicase-MediumItalic.eot": "/painter/static/media/Laqonic4FUnicase-MediumItalic.4897f15091df2f8564d4.eot",
     "static/media/Laqonic4FUnicase-SemiBoldItalic.eot": "/painter/static/media/Laqonic4FUnicase-SemiBoldItalic.62e404f471f44a2229f6.eot",
     "static/media/Laqonic4FUnicase-MediumItalic.ttf": "/painter/static/media/Laqonic4FUnicase-MediumItalic.f93c4b1aaa6ebc8544d9.ttf",
@@ -71,13 +74,12 @@
     "index.html": "/painter/index.html",
     "static/media/CloseCircle.svg": "/painter/static/media/CloseCircle.fb218ab2ca3ff39c194c9a24101049fb.svg",
     "static/media/Arrow.svg": "/painter/static/media/Arrow.8bd302ab01ac766028279a1cb7ab7609.svg",
-    "static/media/гамбургер.svg": "/painter/static/media/гамбургер.a9374abd04d0c73e85008bebef6c06f4.svg",
-    "main.fa6b0e22.css.map": "/painter/static/css/main.fa6b0e22.css.map",
-    "main.82430215.js.map": "/painter/static/js/main.82430215.js.map",
+    "main.50d74f83.css.map": "/painter/static/css/main.50d74f83.css.map",
+    "main.49be4c51.js.map": "/painter/static/js/main.49be4c51.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa6b0e22.css",
-    "static/js/main.82430215.js"
+    "static/css/main.50d74f83.css",
+    "static/js/main.49be4c51.js"
   ]
 }
