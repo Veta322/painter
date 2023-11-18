@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/painter/static/css/main.8c7bb2d6.css",
-    "main.js": "/painter/static/js/main.9b03131c.js",
+    "main.css": "/painter/static/css/main.332a60ec.css",
+    "main.js": "/painter/static/js/main.e9b7cb33.js",
     "static/js/787.e381df78.chunk.js": "/painter/static/js/787.e381df78.chunk.js",
     "static/media/about.png": "/painter/static/media/about.cdeb676d9aa340595592.png",
     "static/media/art-pic.png": "/painter/static/media/art-pic.cc430d51ee49c112cc33.png",
@@ -9,18 +9,21 @@
     "static/media/snakeart.png": "/painter/static/media/snakeart.2fd9bf0703cc60d2c805.png",
     "static/media/mk-pic.png": "/painter/static/media/mk-pic.c7d3dbce416e2c48c3cd.png",
     "static/media/cooperation.png": "/painter/static/media/cooperation.74951b6fade31599a105.png",
+    "static/media/Frame 514543.png": "/painter/static/media/Frame 514543.c9adf151e74ce223fa58.png",
     "static/media/main-pic.png": "/painter/static/media/main-pic.b617af9e053542d7641d.png",
     "static/media/look1.png": "/painter/static/media/look1.eaef9708e785d9172ed6.png",
     "static/media/look3.png": "/painter/static/media/look3.e38e273a72853717ed32.png",
     "static/media/menu-pic.png": "/painter/static/media/menu-pic.659eefc0deaad7ca1d62.png",
     "static/media/look2.png": "/painter/static/media/look2.1c536f888e69b3159ad0.png",
     "static/media/design.png": "/painter/static/media/design.9227cb6c2ff78500e186.png",
+    "static/media/Frame 514551.png": "/painter/static/media/Frame 514551.d73e7d4947efbe3d4cd8.png",
     "static/media/contact-pic.png": "/painter/static/media/contact-pic.7357f52ed2983049fdeb.png",
     "static/media/del-pic.png": "/painter/static/media/del-pic.75634804e60941e29120.png",
     "static/media/Frame 514263.png": "/painter/static/media/Frame 514263.4d1d5ef1057a0dad86eb.png",
     "static/media/look4.png": "/painter/static/media/look4.21f6956041c7b5181dfc.png",
     "static/media/Frame 514546.png": "/painter/static/media/Frame 514546.34ac8c86928ce80e9ff9.png",
     "static/media/Frame 514486.png": "/painter/static/media/Frame 514486.40609f2fc4454f954470.png",
+    "static/media/Frame 514563.png": "/painter/static/media/Frame 514563.495d9affff8e11faa563.png",
     "static/media/Laqonic4FUnicase-MediumItalic.eot": "/painter/static/media/Laqonic4FUnicase-MediumItalic.4897f15091df2f8564d4.eot",
     "static/media/Laqonic4FUnicase-SemiBoldItalic.eot": "/painter/static/media/Laqonic4FUnicase-SemiBoldItalic.62e404f471f44a2229f6.eot",
     "static/media/Laqonic4FUnicase-MediumItalic.ttf": "/painter/static/media/Laqonic4FUnicase-MediumItalic.f93c4b1aaa6ebc8544d9.ttf",
@@ -75,12 +78,12 @@
     "index.html": "/painter/index.html",
     "static/media/CloseCircle.svg": "/painter/static/media/CloseCircle.fb218ab2ca3ff39c194c9a24101049fb.svg",
     "static/media/Arrow.svg": "/painter/static/media/Arrow.8bd302ab01ac766028279a1cb7ab7609.svg",
-    "main.8c7bb2d6.css.map": "/painter/static/css/main.8c7bb2d6.css.map",
-    "main.9b03131c.js.map": "/painter/static/js/main.9b03131c.js.map",
+    "main.332a60ec.css.map": "/painter/static/css/main.332a60ec.css.map",
+    "main.e9b7cb33.js.map": "/painter/static/js/main.e9b7cb33.js.map",
     "787.e381df78.chunk.js.map": "/painter/static/js/787.e381df78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c7bb2d6.css",
-    "static/js/main.9b03131c.js"
+    "static/css/main.332a60ec.css",
+    "static/js/main.e9b7cb33.js"
   ]
 }
